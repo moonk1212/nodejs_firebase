@@ -1,2 +1,10 @@
 # nodejs_firebase
-인프런강의를 보며 공부했습니다.
+
+## 인프런 강의 따라하기 
+
+https://www.inflearn.com/course/firebase-server
+
+클론 코딩 후 인턴쉽을 하면서 프로젝트를 진행함
+
+node.js를 이용해 firebase의 스토리지, DB연동 등을 간단하게 해봄
+

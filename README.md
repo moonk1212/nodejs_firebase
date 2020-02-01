@@ -10,4 +10,5 @@ node.js를 이용해 firebase의 스토리지, DB연동 등을 간단하게 해�
 
 만든 페이지 링크
 
-https://test1-5127e.firebaseio.com
+test1-5127e.web.app
+
